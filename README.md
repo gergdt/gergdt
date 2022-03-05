@@ -1,4 +1,4 @@
-[![gergdt 42 stats](https://badge42.herokuapp.com/api/stats/intra_id)](https://github.com/gergdt/badge42)
+[![gergdt 42 stats](https://badge42.herokuapp.com/api/stats/ggual-de)](https://github.com/gergdt/badge42)
 
 
 
