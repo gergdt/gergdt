@@ -1,7 +1,7 @@
-[![gergdt 42 stats](https://badge42.herokuapp.com/api/stats/ggual-de)](https://github.com/gergdt/badge42)
+//[![gergdt 42 stats](https://badge42.herokuapp.com/api/stats/ggual-de)](https://github.com/gergdt/badge42)
 
 
-<!--
+//<!--
 ### Hi there 👋
 **gergdt/gergdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
