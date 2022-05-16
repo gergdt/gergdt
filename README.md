@@ -1,5 +1,3 @@
-IF this is depacrated you are in the right place :)
-[![gergdt 42 stats](https://badge42.herokuapp.com/api/stats/ggual-de)](https://github.com/gergdt/badge42)
 
 <!--
 ### Hi there 👋
@@ -16,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### :fire: My Stats :
+
+![gergdt stats](https://github-readme-stats.vercel.app/api?username=gergdt&show_icons=true&hide_border=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gergdt&layout=compact&theme=dark&hide_border=true)
