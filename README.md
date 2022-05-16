@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### :duck: Learning at [42 Barcelona](https://www.42barcelona.com/es/)
+![ggual-de's 42 stats](https://badge42.vercel.app/api/v2/cl2j116av002509mh2pt2de29/stats?cursusId=21&coalitionId=205)
 ### :fire: My Stats :
 
 ![gergdt stats](https://github-readme-stats.vercel.app/api?username=gergdt&show_icons=true&hide_border=true&theme=dark)
