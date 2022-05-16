@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 
 ![gergdt stats](https://github-readme-stats.vercel.app/api?username=gergdt&show_icons=true&hide_border=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gergdt&layout=compact&theme=dark&hide_border=true)
+###![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gergdt&layout=compact&theme=dark&hide_border=true)
