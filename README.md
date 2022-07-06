@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ### :duck: Learning at [42 Barcelona](https://www.42barcelona.com/es/)
 ![ggual-de's 42 stats]
 -->
-### :fire: My Stats :
+ :fire: My Stats :
 
 ![gergdt stats](https://github-readme-stats.vercel.app/api?username=gergdt&show_icons=true&hide_border=true&theme=dark)
+###
